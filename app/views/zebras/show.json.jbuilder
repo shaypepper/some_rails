@@ -1,0 +1,1 @@
+json.partial! "zebras/zebra", zebra: @zebra
